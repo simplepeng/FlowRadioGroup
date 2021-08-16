@@ -1,5 +1,7 @@
 # FlowRadioGroup=>流式单选组
 
-![](https://ws1.sinaimg.cn/mw690/00677ch9gy1fuvhnecap8j309k0hlq46)
+![](img_flow_rg.png)
 
 具体使用方法看项目demo
+
+迁移到：[https://github.com/simplepeng/NiceUI](https://github.com/simplepeng/NiceUI)
